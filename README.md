@@ -14,10 +14,9 @@ Below, you will find a description of the columns in the dataset.
 
 In the initial phase of the project, the dataset is thoroughly examined to gain a clear understanding. This includes counting the total number of records and grouping them to differentiate between international and domestic students in order to analyze their respective numbers.
 
-![raw data set](https://github.com/user-attachments/assets/210663c5-a9be-4614-aa93-abd0af606351)
+![raw data set](https://github.com/user-attachments/assets/8a898ece-5468-4610-961d-b4fbee326d7f)
 
 ![determine the total number of records](https://github.com/user-attachments/assets/143a5d51-6e67-48e8-9c54-c3d47a3d8694)
-
 
 ## The impact of length of stay
 
@@ -32,13 +31,17 @@ Based on the query results, it can be inferred that international students who s
 
 Recommendations to Support the Well-Being of International Students:
 
-**Accessible Mental Healthcare:** The Japanese government should consider establishing affordable and easily accessible mental health services tailored to international students.
+**Accessible Mental Healthcare:** 
+The Japanese government should consider establishing affordable and easily accessible mental health services tailored to international students.
 
-**Promoting Social Connections:** Initiatives such as buddy systems should be introduced to encourage interactions between international and domestic students, as well as among inter**national students themselves.
+**Promoting Social Connections:** 
+Initiatives such as buddy systems should be introduced to encourage interactions between international and domestic students, as well as among inter**national students themselves.
 
-**Student Organizations:** Creating student organizations specifically for international students would provide a supportive space where they can feel a sense of belonging and connect with peers who share similar experiences.
+**Student Organizations:** 
+Creating student organizations specifically for international students would provide a supportive space where they can feel a sense of belonging and connect with peers who share similar experiences.
 
-**Local Family Match Programs:** Programs that match international students with local families can significantly ease the cultural and environmental adjustment process.
+**Local Family Match Programs:** 
+Programs that match international students with local families can significantly ease the cultural and environmental adjustment process.
 
 By implementing these measures, institutions can more effectively support international students in adapting to their new surroundings and help mitigate challenges that come with studying abroad.
 
