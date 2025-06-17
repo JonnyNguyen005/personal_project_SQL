@@ -1,2 +1,1 @@
-# personal_project_SQL
-Analyzing Students’ Mental Health in SQL
+# SQL_project_1_Analyzing_Students’_Mental_Health_in_SQL
